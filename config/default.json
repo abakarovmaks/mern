@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "abakarov mern maksym",
+    "mongoUri": "mongodb+srv://maksym:K.,k.cgjhn2@cluster0.nxtlu.mongodb.net/app?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}
